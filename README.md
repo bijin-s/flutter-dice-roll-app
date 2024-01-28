@@ -1,10 +1,11 @@
-# unit1
+# Simple Dice roll app
 
-A new Flutter project.
+<p align="center"> This is a simple dice roll app.Setup the flutter app and run main.dart </p> 
 
+<img src= "https://github.com/bijin-s/flutter-dice-roll-app/blob/main/assets/github_image/one.png">
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for my Flutter application below are some guides.
 
 A few resources to get you started if this is your first Flutter project:
 
