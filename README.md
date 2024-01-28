@@ -1,6 +1,6 @@
 # Simple Dice roll app
-
-<p align="center"> This is a simple dice roll app.Setup the flutter app and run main.dart </p> 
+<br><br>
+<p> This is a simple dice roll app.Setup the flutter app and run main.dart </p> 
 
 <img src= "https://github.com/bijin-s/flutter-dice-roll-app/blob/main/assets/github_image/one.png">
 ## Getting Started
