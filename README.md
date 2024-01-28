@@ -1,4 +1,4 @@
-# Simple Dice roll app
+# Simple Dice roll app 🎲🎲🎲
 <br>
 <p> This is a simple dice roll app.Setup the flutter app and run main.dart </p> 
 <br>
